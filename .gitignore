@@ -1,4 +1,5 @@
 Data/
+models/
 locatNet.keras
 *.keras
 *.h5
