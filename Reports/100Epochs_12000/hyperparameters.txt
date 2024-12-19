@@ -1,0 +1,6 @@
+image_size: (200, 200)
+epochs: 100
+batch_size: 32
+max_images: 12000
+optimizer: adam
+loss_function: categorical_crossentropy

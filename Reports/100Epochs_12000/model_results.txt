@@ -1,0 +1,602 @@
+Test accuracy: 0.48500001430511475
+
+## Epoch 1 ##
+  Training accuracy: 0.1870
+      Training loss: 3.2796
+          Validation accuracy: 0.1536
+              Validation loss: 3.9822
+
+## Epoch 2 ##
+  Training accuracy: 0.2454
+      Training loss: 2.7344
+          Validation accuracy: 0.1932
+              Validation loss: 2.9491
+
+## Epoch 3 ##
+  Training accuracy: 0.2642
+      Training loss: 2.6113
+          Validation accuracy: 0.2531
+              Validation loss: 2.6645
+
+## Epoch 4 ##
+  Training accuracy: 0.2802
+      Training loss: 2.5515
+          Validation accuracy: 0.1479
+              Validation loss: 5.3242
+
+## Epoch 5 ##
+  Training accuracy: 0.2750
+      Training loss: 2.5267
+          Validation accuracy: 0.2625
+              Validation loss: 2.7247
+
+## Epoch 6 ##
+  Training accuracy: 0.2941
+      Training loss: 2.4448
+          Validation accuracy: 0.2526
+              Validation loss: 2.9779
+
+## Epoch 7 ##
+  Training accuracy: 0.3017
+      Training loss: 2.4126
+          Validation accuracy: 0.1094
+              Validation loss: 4.4932
+
+## Epoch 8 ##
+  Training accuracy: 0.3167
+      Training loss: 2.3693
+          Validation accuracy: 0.2880
+              Validation loss: 2.5199
+
+## Epoch 9 ##
+  Training accuracy: 0.3332
+      Training loss: 2.3408
+          Validation accuracy: 0.2401
+              Validation loss: 2.8261
+
+## Epoch 10 ##
+  Training accuracy: 0.3310
+      Training loss: 2.3185
+          Validation accuracy: 0.3380
+              Validation loss: 2.3088
+
+## Epoch 11 ##
+  Training accuracy: 0.3478
+      Training loss: 2.2820
+          Validation accuracy: 0.2333
+              Validation loss: 3.0613
+
+## Epoch 12 ##
+  Training accuracy: 0.3546
+      Training loss: 2.2395
+          Validation accuracy: 0.2234
+              Validation loss: 3.1163
+
+## Epoch 13 ##
+  Training accuracy: 0.3585
+      Training loss: 2.2272
+          Validation accuracy: 0.3167
+              Validation loss: 2.4876
+
+## Epoch 14 ##
+  Training accuracy: 0.3734
+      Training loss: 2.2009
+          Validation accuracy: 0.3750
+              Validation loss: 2.2394
+
+## Epoch 15 ##
+  Training accuracy: 0.3863
+      Training loss: 2.1562
+          Validation accuracy: 0.3203
+              Validation loss: 2.5530
+
+## Epoch 16 ##
+  Training accuracy: 0.3858
+      Training loss: 2.1469
+          Validation accuracy: 0.2589
+              Validation loss: 2.7429
+
+## Epoch 17 ##
+  Training accuracy: 0.3924
+      Training loss: 2.1288
+          Validation accuracy: 0.3625
+              Validation loss: 2.3693
+
+## Epoch 18 ##
+  Training accuracy: 0.4035
+      Training loss: 2.0893
+          Validation accuracy: 0.2828
+              Validation loss: 3.0728
+
+## Epoch 19 ##
+  Training accuracy: 0.4151
+      Training loss: 2.0472
+          Validation accuracy: 0.3208
+              Validation loss: 2.5665
+
+## Epoch 20 ##
+  Training accuracy: 0.4134
+      Training loss: 2.0507
+          Validation accuracy: 0.3349
+              Validation loss: 2.5082
+
+## Epoch 21 ##
+  Training accuracy: 0.4173
+      Training loss: 2.0224
+          Validation accuracy: 0.3198
+              Validation loss: 2.5491
+
+## Epoch 22 ##
+  Training accuracy: 0.4229
+      Training loss: 2.0090
+          Validation accuracy: 0.3115
+              Validation loss: 2.7193
+
+## Epoch 23 ##
+  Training accuracy: 0.4290
+      Training loss: 1.9800
+          Validation accuracy: 0.3688
+              Validation loss: 2.3462
+
+## Epoch 24 ##
+  Training accuracy: 0.4398
+      Training loss: 1.9664
+          Validation accuracy: 0.3776
+              Validation loss: 2.3970
+
+## Epoch 25 ##
+  Training accuracy: 0.4398
+      Training loss: 1.9395
+          Validation accuracy: 0.4375
+              Validation loss: 2.0583
+
+## Epoch 26 ##
+  Training accuracy: 0.4483
+      Training loss: 1.9369
+          Validation accuracy: 0.3203
+              Validation loss: 2.6942
+
+## Epoch 27 ##
+  Training accuracy: 0.4520
+      Training loss: 1.9054
+          Validation accuracy: 0.3234
+              Validation loss: 2.6244
+
+## Epoch 28 ##
+  Training accuracy: 0.4579
+      Training loss: 1.8955
+          Validation accuracy: 0.3953
+              Validation loss: 2.1495
+
+## Epoch 29 ##
+  Training accuracy: 0.4635
+      Training loss: 1.8819
+          Validation accuracy: 0.2604
+              Validation loss: 3.0317
+
+## Epoch 30 ##
+  Training accuracy: 0.4633
+      Training loss: 1.8578
+          Validation accuracy: 0.3161
+              Validation loss: 2.5518
+
+## Epoch 31 ##
+  Training accuracy: 0.4643
+      Training loss: 1.8390
+          Validation accuracy: 0.4068
+              Validation loss: 2.2116
+
+## Epoch 32 ##
+  Training accuracy: 0.4704
+      Training loss: 1.8419
+          Validation accuracy: 0.3891
+              Validation loss: 2.3360
+
+## Epoch 33 ##
+  Training accuracy: 0.4758
+      Training loss: 1.8064
+          Validation accuracy: 0.3797
+              Validation loss: 2.2799
+
+## Epoch 34 ##
+  Training accuracy: 0.4695
+      Training loss: 1.7987
+          Validation accuracy: 0.3208
+              Validation loss: 2.7454
+
+## Epoch 35 ##
+  Training accuracy: 0.4857
+      Training loss: 1.7723
+          Validation accuracy: 0.3547
+              Validation loss: 2.5443
+
+## Epoch 36 ##
+  Training accuracy: 0.4900
+      Training loss: 1.7614
+          Validation accuracy: 0.4458
+              Validation loss: 2.0544
+
+## Epoch 37 ##
+  Training accuracy: 0.4931
+      Training loss: 1.7638
+          Validation accuracy: 0.4354
+              Validation loss: 2.0262
+
+## Epoch 38 ##
+  Training accuracy: 0.4964
+      Training loss: 1.7467
+          Validation accuracy: 0.3995
+              Validation loss: 2.3386
+
+## Epoch 39 ##
+  Training accuracy: 0.5013
+      Training loss: 1.7239
+          Validation accuracy: 0.3865
+              Validation loss: 2.4101
+
+## Epoch 40 ##
+  Training accuracy: 0.5017
+      Training loss: 1.7104
+          Validation accuracy: 0.3906
+              Validation loss: 2.3918
+
+## Epoch 41 ##
+  Training accuracy: 0.5048
+      Training loss: 1.6852
+          Validation accuracy: 0.3974
+              Validation loss: 2.2419
+
+## Epoch 42 ##
+  Training accuracy: 0.5094
+      Training loss: 1.6769
+          Validation accuracy: 0.4266
+              Validation loss: 2.3624
+
+## Epoch 43 ##
+  Training accuracy: 0.5102
+      Training loss: 1.6840
+          Validation accuracy: 0.4146
+              Validation loss: 2.2400
+
+## Epoch 44 ##
+  Training accuracy: 0.5206
+      Training loss: 1.6372
+          Validation accuracy: 0.2380
+              Validation loss: 3.2856
+
+## Epoch 45 ##
+  Training accuracy: 0.5150
+      Training loss: 1.6462
+          Validation accuracy: 0.3505
+              Validation loss: 2.6514
+
+## Epoch 46 ##
+  Training accuracy: 0.5288
+      Training loss: 1.6176
+          Validation accuracy: 0.4151
+              Validation loss: 2.1450
+
+## Epoch 47 ##
+  Training accuracy: 0.5276
+      Training loss: 1.6159
+          Validation accuracy: 0.3042
+              Validation loss: 3.0133
+
+## Epoch 48 ##
+  Training accuracy: 0.5275
+      Training loss: 1.6105
+          Validation accuracy: 0.3438
+              Validation loss: 2.6705
+
+## Epoch 49 ##
+  Training accuracy: 0.5384
+      Training loss: 1.5971
+          Validation accuracy: 0.4354
+              Validation loss: 2.0938
+
+## Epoch 50 ##
+  Training accuracy: 0.5342
+      Training loss: 1.5861
+          Validation accuracy: 0.4667
+              Validation loss: 1.9764
+
+## Epoch 51 ##
+  Training accuracy: 0.5322
+      Training loss: 1.5801
+          Validation accuracy: 0.4969
+              Validation loss: 1.8385
+
+## Epoch 52 ##
+  Training accuracy: 0.5400
+      Training loss: 1.5613
+          Validation accuracy: 0.4875
+              Validation loss: 1.9547
+
+## Epoch 53 ##
+  Training accuracy: 0.5434
+      Training loss: 1.5599
+          Validation accuracy: 0.3635
+              Validation loss: 2.4615
+
+## Epoch 54 ##
+  Training accuracy: 0.5540
+      Training loss: 1.5163
+          Validation accuracy: 0.3953
+              Validation loss: 2.2783
+
+## Epoch 55 ##
+  Training accuracy: 0.5572
+      Training loss: 1.5195
+          Validation accuracy: 0.4005
+              Validation loss: 2.3722
+
+## Epoch 56 ##
+  Training accuracy: 0.5549
+      Training loss: 1.5215
+          Validation accuracy: 0.3932
+              Validation loss: 2.2861
+
+## Epoch 57 ##
+  Training accuracy: 0.5548
+      Training loss: 1.5031
+          Validation accuracy: 0.4823
+              Validation loss: 1.9905
+
+## Epoch 58 ##
+  Training accuracy: 0.5560
+      Training loss: 1.4900
+          Validation accuracy: 0.4151
+              Validation loss: 2.2437
+
+## Epoch 59 ##
+  Training accuracy: 0.5613
+      Training loss: 1.4930
+          Validation accuracy: 0.3990
+              Validation loss: 2.3472
+
+## Epoch 60 ##
+  Training accuracy: 0.5634
+      Training loss: 1.4807
+          Validation accuracy: 0.3896
+              Validation loss: 2.4973
+
+## Epoch 61 ##
+  Training accuracy: 0.5632
+      Training loss: 1.4685
+          Validation accuracy: 0.4115
+              Validation loss: 2.3949
+
+## Epoch 62 ##
+  Training accuracy: 0.5678
+      Training loss: 1.4625
+          Validation accuracy: 0.4969
+              Validation loss: 1.8677
+
+## Epoch 63 ##
+  Training accuracy: 0.5630
+      Training loss: 1.4688
+          Validation accuracy: 0.4630
+              Validation loss: 2.0756
+
+## Epoch 64 ##
+  Training accuracy: 0.5711
+      Training loss: 1.4513
+          Validation accuracy: 0.4464
+              Validation loss: 2.1192
+
+## Epoch 65 ##
+  Training accuracy: 0.5697
+      Training loss: 1.4421
+          Validation accuracy: 0.3750
+              Validation loss: 2.5078
+
+## Epoch 66 ##
+  Training accuracy: 0.5829
+      Training loss: 1.4113
+          Validation accuracy: 0.4849
+              Validation loss: 2.0060
+
+## Epoch 67 ##
+  Training accuracy: 0.5797
+      Training loss: 1.4197
+          Validation accuracy: 0.4401
+              Validation loss: 2.1854
+
+## Epoch 68 ##
+  Training accuracy: 0.5840
+      Training loss: 1.4058
+          Validation accuracy: 0.4505
+              Validation loss: 2.1121
+
+## Epoch 69 ##
+  Training accuracy: 0.5796
+      Training loss: 1.4017
+          Validation accuracy: 0.4688
+              Validation loss: 2.1456
+
+## Epoch 70 ##
+  Training accuracy: 0.5971
+      Training loss: 1.3781
+          Validation accuracy: 0.4703
+              Validation loss: 2.0455
+
+## Epoch 71 ##
+  Training accuracy: 0.5852
+      Training loss: 1.3810
+          Validation accuracy: 0.4297
+              Validation loss: 2.4134
+
+## Epoch 72 ##
+  Training accuracy: 0.5936
+      Training loss: 1.3566
+          Validation accuracy: 0.4276
+              Validation loss: 2.3112
+
+## Epoch 73 ##
+  Training accuracy: 0.5919
+      Training loss: 1.3653
+          Validation accuracy: 0.4932
+              Validation loss: 1.9723
+
+## Epoch 74 ##
+  Training accuracy: 0.5966
+      Training loss: 1.3861
+          Validation accuracy: 0.4344
+              Validation loss: 2.3605
+
+## Epoch 75 ##
+  Training accuracy: 0.5888
+      Training loss: 1.3643
+          Validation accuracy: 0.3542
+              Validation loss: 2.8368
+
+## Epoch 76 ##
+  Training accuracy: 0.6029
+      Training loss: 1.3505
+          Validation accuracy: 0.4964
+              Validation loss: 1.9903
+
+## Epoch 77 ##
+  Training accuracy: 0.5960
+      Training loss: 1.3394
+          Validation accuracy: 0.4344
+              Validation loss: 2.3304
+
+## Epoch 78 ##
+  Training accuracy: 0.6016
+      Training loss: 1.3320
+          Validation accuracy: 0.4708
+              Validation loss: 2.2484
+
+## Epoch 79 ##
+  Training accuracy: 0.6081
+      Training loss: 1.3159
+          Validation accuracy: 0.4901
+              Validation loss: 1.9640
+
+## Epoch 80 ##
+  Training accuracy: 0.6056
+      Training loss: 1.3061
+          Validation accuracy: 0.4375
+              Validation loss: 2.2627
+
+## Epoch 81 ##
+  Training accuracy: 0.6062
+      Training loss: 1.3125
+          Validation accuracy: 0.4734
+              Validation loss: 2.1404
+
+## Epoch 82 ##
+  Training accuracy: 0.6154
+      Training loss: 1.2946
+          Validation accuracy: 0.3797
+              Validation loss: 2.5911
+
+## Epoch 83 ##
+  Training accuracy: 0.6177
+      Training loss: 1.2748
+          Validation accuracy: 0.4672
+              Validation loss: 2.1706
+
+## Epoch 84 ##
+  Training accuracy: 0.6186
+      Training loss: 1.2810
+          Validation accuracy: 0.4958
+              Validation loss: 1.9421
+
+## Epoch 85 ##
+  Training accuracy: 0.6214
+      Training loss: 1.2805
+          Validation accuracy: 0.4552
+              Validation loss: 2.1139
+
+## Epoch 86 ##
+  Training accuracy: 0.6177
+      Training loss: 1.2765
+          Validation accuracy: 0.5078
+              Validation loss: 1.9813
+
+## Epoch 87 ##
+  Training accuracy: 0.6249
+      Training loss: 1.2504
+          Validation accuracy: 0.3646
+              Validation loss: 2.9290
+
+## Epoch 88 ##
+  Training accuracy: 0.6249
+      Training loss: 1.2434
+          Validation accuracy: 0.4938
+              Validation loss: 2.0676
+
+## Epoch 89 ##
+  Training accuracy: 0.6223
+      Training loss: 1.2566
+          Validation accuracy: 0.3078
+              Validation loss: 3.5336
+
+## Epoch 90 ##
+  Training accuracy: 0.6240
+      Training loss: 1.2445
+          Validation accuracy: 0.4318
+              Validation loss: 2.3546
+
+## Epoch 91 ##
+  Training accuracy: 0.6301
+      Training loss: 1.2359
+          Validation accuracy: 0.4323
+              Validation loss: 2.3522
+
+## Epoch 92 ##
+  Training accuracy: 0.6285
+      Training loss: 1.2287
+          Validation accuracy: 0.4094
+              Validation loss: 2.5763
+
+## Epoch 93 ##
+  Training accuracy: 0.6302
+      Training loss: 1.2280
+          Validation accuracy: 0.4219
+              Validation loss: 2.4585
+
+## Epoch 94 ##
+  Training accuracy: 0.6352
+      Training loss: 1.2049
+          Validation accuracy: 0.3594
+              Validation loss: 3.0162
+
+## Epoch 95 ##
+  Training accuracy: 0.6306
+      Training loss: 1.2279
+          Validation accuracy: 0.4870
+              Validation loss: 2.0830
+
+## Epoch 96 ##
+  Training accuracy: 0.6367
+      Training loss: 1.2273
+          Validation accuracy: 0.5266
+              Validation loss: 1.9278
+
+## Epoch 97 ##
+  Training accuracy: 0.6435
+      Training loss: 1.1810
+          Validation accuracy: 0.4036
+              Validation loss: 2.9012
+
+## Epoch 98 ##
+  Training accuracy: 0.6460
+      Training loss: 1.1917
+          Validation accuracy: 0.4635
+              Validation loss: 2.1679
+
+## Epoch 99 ##
+  Training accuracy: 0.6371
+      Training loss: 1.1863
+          Validation accuracy: 0.4417
+              Validation loss: 2.4127
+
+## Epoch 100 ##
+  Training accuracy: 0.6467
+      Training loss: 1.1897
+          Validation accuracy: 0.4859
+              Validation loss: 2.4001
+
