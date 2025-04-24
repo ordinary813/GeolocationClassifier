@@ -4,13 +4,9 @@ A deep learning project that classifies images based on their **geolocation** (c
 
 ---
 
-## 📌 Overview
+## Overview
 
 The objective of this project is to **build and optimize a deep learning model** that can predict the **geographical location** of a given image. The classification is done on both the **country** and **continent** level.
-
----
-
-## 🧠 Learning Journey
 
 We started with minimal knowledge of CNNs and transfer learning. Through self-study and hands-on experimentation, we:
 
@@ -20,7 +16,7 @@ We started with minimal knowledge of CNNs and transfer learning. Through self-st
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 - **25,000 images** with 640x640 resolution.
 - Sourced from **Kaggle** and the **Google Street View API**.
@@ -28,7 +24,7 @@ We started with minimal knowledge of CNNs and transfer learning. Through self-st
 
 ---
 
-## ⚙️ Data Preprocessing
+## ⚙Data Preprocessing
 
 - Resized all images to a uniform shape.
 - Applied **data augmentation** (rotation, zoom, shear).
@@ -38,23 +34,23 @@ We started with minimal knowledge of CNNs and transfer learning. Through self-st
 
 ---
 
-## 🏗️ Model Development
+## 🏗Model Development
 
 We built and experimented with the following architectures:
 
-### ✅ Pretrained Models Used
+### Pretrained Models Used
 - **MobileNetV2** – Fast and efficient.
 - **VGG16** – High accuracy, deeper layers.
 - **ResNet50** – Strong generalization.
 
-### ⚙️ Key Techniques
+### Key Techniques
 - Transfer Learning: Used pretrained weights, fine-tuned top layers.
 - Added custom **Dense** and **Dropout** layers.
 - Optimized training with **Early Stopping**, **ReduceLROnPlateau**, and efficient data loading.
 
 ---
 
-## 🔧 Hyperparameter Tuning
+## Hyperparameter Tuning
 
 We experimented with:
 - Learning rates and batch sizes.
@@ -64,7 +60,7 @@ We experimented with:
 
 ---
 
-## 🚀 Performance Results
+## Performance Results
 
 | Task                        | Model       | Test Accuracy |
 |----------------------------|-------------|---------------|
@@ -76,7 +72,7 @@ We experimented with:
 
 ---
 
-## 💻 Optimization
+## Optimization
 
 - Used **GPU acceleration** via WSL + CUDA for efficient training.
 - Reduced CPU overhead with optimized data loaders.
