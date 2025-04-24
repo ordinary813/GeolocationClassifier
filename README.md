@@ -24,7 +24,7 @@ We started with minimal knowledge of CNNs and transfer learning. Through self-st
 
 ---
 
-## ⚙Data Preprocessing
+## Data Preprocessing
 
 - Resized all images to a uniform shape.
 - Applied **data augmentation** (rotation, zoom, shear).
@@ -34,7 +34,7 @@ We started with minimal knowledge of CNNs and transfer learning. Through self-st
 
 ---
 
-## 🏗Model Development
+## Model Development
 
 We built and experimented with the following architectures:
 
